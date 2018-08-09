@@ -1,2 +1,0 @@
-# bioinformatica
-informes de laboratorio 
